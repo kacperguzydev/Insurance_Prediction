@@ -1,0 +1,8 @@
+age,sex,bmi,children,smoker,region,insuranceclaim,charges
+28,male,36.4,1,smoker,southwest,yes,51194.56
+54,female,47.41,0,smoker,southeast,yes,63770.43
+31,female,38.095,1,smoker,northeast,yes,58571.07
+33,female,35.53,0,smoker,northwest,yes,55135.4
+60,male,32.8,0,smoker,southwest,yes,52590.83
+52,male,34.485,3,smoker,northwest,yes,60021.4
+45,male,30.36,0,smoker,southeast,yes,62592.87
