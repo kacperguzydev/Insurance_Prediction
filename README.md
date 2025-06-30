@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 streamlit run dashboard.py
 
-## 🖼️ Screenshots
+## 🚀 Screenshots
 
-- 🔮 Prediction Interface:
+- 🔮 Prediction Tab:
 ![Prediction](images/1.png)
 - 📊 Claim KPIs Dashboard:
 ![KPIs](images/2.png)
