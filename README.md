@@ -39,8 +39,7 @@ streamlit run dashboard.py
 
 ## 🖼️ Screenshots
 
-- 🔮 Prediction Interface:**
+- 🔮 Prediction Interface:
 ![Prediction](images/1.png)
-
-- 📊 Claim KPIs Dashboard:**
+- 📊 Claim KPIs Dashboard:
 ![KPIs](images/2.png)
